@@ -143,6 +143,42 @@
           "name": "Mary Gordon"
         }
       ]
+    },
+    {
+      "id": 3176987,
+      "user": {
+        "id": "abc123",
+        "name": "Serge"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Serge"
+      },
+      "title": "ssss",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8962508,
+      "user": {
+        "id": "abc123",
+        "name": "Serge"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Serge"
+      },
+      "title": "Sucess",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }
