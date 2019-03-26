@@ -233,6 +233,24 @@
       "date": "",
       "time": "",
       "attendees": []
+    },
+    {
+      "id": 6672235,
+      "user": {
+        "id": "abc123",
+        "name": "Serge"
+      },
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Serge"
+      },
+      "title": "Food for homeless",
+      "description": "Soup",
+      "location": "Cleveland",
+      "date": "2019-03-01T21:41:00.000Z",
+      "time": "4:00",
+      "attendees": []
     }
   ]
 }
